@@ -17,18 +17,27 @@ a {
 h1 {
 	font-family: 'Playfair Display', serif;
 	font-size: 75px;
-	color: #550000;
+	color: white;
 	justify-content: center;
 	padding-top: 250px;
 
 }
+
+footer {
+	color: black;
+	font-family: 'Playfair Display', serif; 
+	position: fixed;
+	bottom:0;
+	right:0;
+}
+
 
 .lead {
 	color: white;
 }
 
 .jumbotron {
-	background-image: url(https://images.unsplash.com/photo-1523349922915-87756a12e8cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-image: url(https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80);
 	background-repeat: no-repeat;
 	background-size: cover;
 
